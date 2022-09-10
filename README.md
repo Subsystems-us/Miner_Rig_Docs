@@ -1,2 +1,2 @@
-# Miner_Rig_Docs
-Documents pertaining to DUCO mining rigs
+# Miner Rig Docs
+Here you will find documents, schematics, and other items related to my enjoying dive into DUCO mining.
